@@ -129,9 +129,9 @@ hello this is my first insertion lol
   4. Move the cursor to the second line marked ---> and repeat
      steps 2 and 3 to correct this sentence.
 
----> There is some text missing from th
+---> There is some text missing from this line.
      There is some text missing from this line.
----> There is also some text miss
+---> There is also some text missing here.
      There is also some text missing here.
 
   5. When you are comfortable appending text move to lesson 1.6.
@@ -200,11 +200,9 @@ Now continue with lesson 2.
 	it.  Vim is waiting for you to type  w .  If you see another character
 	than  d  you typed something wrong; press  <ESC>  and start over.
 
----> There are a some words fun that don't belong paper in this sentence.
+---> There are a some words that don't belong in this sentence.
 
   5. Repeat steps 3 and 4 until the sentence is correct and go to lesson 2.2.
-
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		      Lesson 2.2: MORE DELETION COMMANDS
 
