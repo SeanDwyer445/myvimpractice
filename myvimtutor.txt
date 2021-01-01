@@ -111,7 +111,7 @@ NOTE: As you go through this tutor, do not try to memorize, learn by usage.
 
   5. When you are comfortable inserting text move to lesson 1.5.
 
-
+hello this is my first insertion lol 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		     Lesson 1.5: TEXT EDITING - APPENDING
