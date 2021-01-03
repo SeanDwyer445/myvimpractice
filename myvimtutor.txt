@@ -517,7 +517,7 @@ complete
 --->  "errroor" is not the way to spell error;  errroor is an error.
 NOTE: When the search reaches the end of the file it will continue at the
       start, unless the 'wrapscan' option has been reset.
-
+complete 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		   Lesson 4.3: MATCHING PARENTHESES SEARCH
 
