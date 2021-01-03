@@ -286,10 +286,10 @@ complete
   3. Repeat steps 1 and 2 with a different count to delete the consecutive
      UPPER CASE words with one command.
 
---->  this ABC DE line FGHI JK LMN OP of words is Q RS TUV cleaned up.
+--->  this line of words is cleaned up.
 
 
-
+complete 
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
