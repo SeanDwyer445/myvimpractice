@@ -419,12 +419,12 @@ complete
 
   5. Repeat steps 3 and 4 until the first sentence is the same as the second.
 
----> This lubw has a few wptfd that mrrf changing usf the change operator.
+---> This line has a few words that need changing using the change operator.
 ---> This line has a few words that need changing using the change operator.
 
 Notice that  ce  deletes the word and places you in Insert mode.
 
-
+complete
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		       Lesson 3.4: MORE CHANGES USING c
