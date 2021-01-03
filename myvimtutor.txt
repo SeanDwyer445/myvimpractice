@@ -608,7 +608,7 @@ NOTE:  It is possible to execute any external command this way, also with
 
 NOTE:  All  :  commands must be finished by hitting <ENTER>
        From here on we will not always mention it.
-
+complete
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		      Lesson 5.2: MORE ON WRITING FILES
