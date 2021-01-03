@@ -539,7 +539,7 @@ complete
 
 NOTE: This is very useful in debugging a program with unmatched parentheses!
 
-
+complete 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		      Lesson 4.4: THE SUBSTITUTE COMMAND
