@@ -331,7 +331,7 @@ complete
 
   8. These are very useful commands.  Now move on to the lesson 2 Summary.
 
-
+complete 
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
