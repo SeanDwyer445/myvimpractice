@@ -373,11 +373,11 @@ complete
 
   5. Repeat steps 2 through 4 to put all the lines in correct order.
 
----> d) Can you learn too?
+---> a) Roses are red,
 ---> b) Violets are blue,
 ---> c) Intelligence is learned,
----> a) Roses are red,
-
+---> d) Can you learn too?
+complete
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
