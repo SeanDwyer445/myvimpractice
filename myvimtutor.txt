@@ -632,7 +632,7 @@ NOTE: If you were to exit Vim and start it again with  vim TEST , the file
   5. Now remove the file by typing (Windows):   :!del TEST
 				or (Unix):	:!rm TEST
 
-
+complete (already made a filename for this save)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		    Lesson 5.3: SELECTING TEXT TO WRITE
 
