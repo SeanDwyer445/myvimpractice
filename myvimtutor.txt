@@ -1,4 +1,4 @@
-===============================================================================
+
 =    W e l c o m e   t o   t h e   V I M   T u t o r    -    Version 1.7      =
 ===============================================================================
 
@@ -494,7 +494,7 @@ NOTE:  You may see the cursor position in the lower right corner of the screen
      return you to the line you were on when you first pressed CTRL-G.
 
   4. If you feel confident to do this, execute steps 1 through 3.
-
+complete 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			Lesson 4.2: THE SEARCH COMMAND
 
