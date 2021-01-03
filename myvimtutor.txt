@@ -678,6 +678,11 @@ NOTE:  You can also read the output of an external command.  For example,
        :r !ls  reads the output of the ls command and puts it below the
        cursor.
 
+  1. Move the cursor to this line.
+
+  2. Press  v  and move the cursor to the fifth item below.  Notice that the
+     text is highlighted.
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			       Lesson 5 SUMMARY
@@ -701,7 +706,7 @@ NOTE:  You can also read the output of an external command.  For example,
   5.  :r !dir  reads the output of the dir command and puts it below the
       cursor position.
 
-
+complete 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			 Lesson 6.1: THE OPEN COMMAND
 
