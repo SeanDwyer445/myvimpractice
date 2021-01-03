@@ -307,13 +307,9 @@ complete
   4. Type   2dd   to delete two lines.
 
 --->  1)  Roses are red,
---->  2)  Mud is fun,
 --->  3)  Violets are blue,
---->  4)  I have a car,
---->  5)  Clocks tell time,
---->  6)  Sugar is sweet
 --->  7)  And so are you.
-
+complete 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			 Lesson 2.7: THE UNDO COMMAND
