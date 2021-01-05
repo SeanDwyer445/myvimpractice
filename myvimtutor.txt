@@ -938,7 +938,7 @@ NOTE:  Completion works for many commands.  Just try pressing CTRL-D and
 
 
 
-
+complete 
 
 
 
