@@ -781,7 +781,7 @@ NOTE:  Replace mode is like Insert mode, but every typed character deletes an
        existing character.
 complete 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-			Lesson 6.4: COPY AND PASTE TEXT
+Im just writing some stuff			Lesson 6.4: COPY AND PASTE TEXT
 
 
 	  ** Use the  y  operator to copy text and  p  to paste it **
